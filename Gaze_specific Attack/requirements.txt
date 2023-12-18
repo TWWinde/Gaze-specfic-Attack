@@ -1,0 +1,11 @@
+torchvision
+pytorch
+matplotlib
+scipy
+numpy
+opencv-python
+tqdm
+yacs
+h5py
+scipy
+Pillow
