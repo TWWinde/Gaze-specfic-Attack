@@ -24,7 +24,7 @@ git clone [https://git.hcics.simtech.uni-stuttgart.de/tang/GMI-Attack.git](https
 cd /GMI-Attack/Gaze_specific_Attack
 ```
 
-The code is tested for Python 3.8 and the packages listed in [oasis.yml](oasis.yml).
+The code is tested for Python 3.8 and the packages listed in [requirements.txt](oasis.yml).
 The basic requirements are PyTorch and Torchvision.
 The easiest way to get going is to setup a conda environment via
 ```
