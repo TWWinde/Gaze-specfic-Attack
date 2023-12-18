@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:30}" host="gpuws3.hcics.simtech.uni-stuttgart.de" id="19996abf-d26d-414f-875c-53485e383ef2" port="22" nameFormat="DESCRIPTIVE" username="tang" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" host="gpuws3.hcics.simtech.uni-stuttgart.de" id="e1f2af07-82f1-48a7-a3fc-28e929e6903e" port="22" nameFormat="DESCRIPTIVE" username="tang" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</project>
