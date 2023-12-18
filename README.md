@@ -20,7 +20,7 @@ attack is to empirically quantify the amount of information deducible from the t
 ## Setup
 First, clone this repository:
 ```
-git clone https://git.hcics.simtech.uni-stuttgart.de/tang/GMI-Attack.git
+git clone [https://git.hcics.simtech.uni-stuttgart.de/tang/GMI-Attack.git](https://github.com/TWWinde/Gaze-specfic-Attack.git)
 cd /GMI-Attack/Gaze_specific_Attack
 ```
 
