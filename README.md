@@ -1,6 +1,6 @@
 # DualView: Gaze-specific Attack
 This repo contains code for the  DualView: Gaze-specific Attack part of our work "PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure
-Multi-Party Computation"
+Multi-Party Computation",which has been submitted to [ETRA](https://etra.acm.org/index.html)
 
 
 
