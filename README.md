@@ -82,16 +82,13 @@ using GazeCapture, LPW, Celeba datasets.
 ## Citation
 If you use this work please cite
 ```
-@article{,
-title = {PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation},
-journal = {},
-volume = {},
-pages = {},
-year = {2024},
-issn = {},
-doi = {},
-url = {},
-author = {},
+@misc{elfares2024privateyes,
+      title={PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation}, 
+      author={Mayar Elfares and Pascal Reisert and Zhiming Hu and Wenwu Tang and Ralf Küsters and Andreas Bulling},
+      year={2024},
+      eprint={2402.18970},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }  
 ```
 
