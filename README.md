@@ -20,8 +20,8 @@ attack is to empirically quantify the amount of information deducible from the t
 ## Setup
 First, clone this repository:
 ```
-git clone [https://git.hcics.simtech.uni-stuttgart.de/tang/GMI-Attack.git](https://github.com/TWWinde/Gaze-specfic-Attack.git)
-cd /GMI-Attack/Gaze_specific_Attack
+git clone https://github.com/TWWinde/Gaze-specfic-Attack.git
+cd /Gaze_specific_Attack
 ```
 
 The code is tested for Python 3.8 and the packages listed in [requirements.txt](oasis.yml).
